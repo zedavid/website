@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Associate
+  - title: Research Fellow
     company: Heriot-Watt University
     company_url: ''
     location: Edinburgh, Scotland
-    date_start: '2018-04-12'
+    date_start: '2020-08-01'
     date_end: ''
-    deacriptions: "Developing conversational interfaces for the oil and gas industry.
+    description: "Developing conversational interfaces for the oil and gas industry.
     RobotCafé, developing a robot-driven coffee machine using Rasa for the conversational part. Investigating signals of trust hidden in human-human and human-machine natural interactions."
   - title: Research Associate
     company: Heriot-Watt University
@@ -71,5 +71,5 @@ experience:
     location: Coimbra, Portugal
     date_start: '2007-10-01'
     date_end: '2008-09-30'
-    description: working on robust speech recognition for industrial environments as part of Tecnovoz project.
+    description: Working on robust speech recognition for industrial environments as part of Tecnovoz project.
 ---

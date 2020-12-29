@@ -11,7 +11,7 @@ role: Research Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Heriot-Watt University
-  url: https://www.stanford.edu/
+  url: https://www.hw.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include conversational systems for situated human-robot interaction.
@@ -31,7 +31,7 @@ education:
   - course: MEng in Electrical and Computer Engineering
     institution: Universidade de Coimbra
     year: 2008
-  - course: BSc in Electrical and Computer Engineering
+  - course: BEng in Electrical and Computer Engineering
     institution: Universidade de Coimbra
     year: 2007
 
@@ -72,4 +72,4 @@ highlight_name: false
 
 José David Lopes is a Research Fellow at Heriot Watt University in Edinburgh, Scotland. His research focus on conversational systems for human-robot interaction. He's part of the Interaction Lab and the INCRA Lab. He is currently involved in The RobotCafé for the National Robotarium and the UKRI TAS Trust Node.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/corporateCV.pdf" "newtab" >}}resumé{{< /staticref >}}.
