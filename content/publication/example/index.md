@@ -1,23 +1,24 @@
 ---
-title: "An example conference paper"
+title: "The Lab vs The Crowd: An Investigation into Data Quality for Neural Dialogue Models"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Francisco Javier Chiyah Garcia
+- Helen Hastie
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *NeurIPS Workshop on Human in the Loop Dialogue Systems*
+publication_short: In *NeurIPS Workshop HLDS*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Challenges around collecting and processing quality data have hampered progress in data-driven dialogue models. Previous approaches are moving away from costly, resource-intensive lab settings,  where collection is slow but where the data is deemed of high quality. The advent of crowd-sourcing platforms, such as AmazonMechanical Turk, has provided researchers with an alternative cost-effective and rapid way to collect data. However, the collection of fluid,  natural spoken or textual interaction can be challenging, particularly between two crowd-sourced workers. In this study, we compare the performance of dialogue models for the same interaction task but collected in two different settings: in the lab vs. crowd-sourced. We find that fewer lab dialogues are needed to reach similar accuracy, less than half the amount of lab data as crowd-sourced data.. We discuss the advantages and disadvantages of each data collection method.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We compared the performance of neural models when trained using crowd-sourced and lab collected data. For our particular domain lab data lead to better performance. 
 
 tags: []
 
@@ -54,9 +55,9 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [Mr Freeze's lab](https://www.flickr.com/photos/9842867@N04/8560981360)'
   focal_point: ""
   preview_only: false
 
