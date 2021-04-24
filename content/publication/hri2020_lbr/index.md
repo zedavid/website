@@ -27,8 +27,8 @@ publishDate: "2020-12-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Companion of the *ACM/IEEE International Conference on Human-Robot Interaction*
-publication_short: In *HRI*
+publication: "In Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction"
+publication_short: In *HRI2021*
 
 abstract: "Moments of uncertainty are common for learners when practicing a second language. The appropriate management of these events could help avoid the development of frustration and benefit the learner's experience. Therefore, its detection is crucial in language practice conversations. In this study, an experimental conversation between an adult second language learner and a social robot is employed to visually characterize the learners' uncertainty. The robot's output is manipulated in prosody and lexical levels to provoke uncertainty during the conversation. These reactions are then processed to obtain Facial Action Units (AUs) and Gaze features. Preliminary results show distinctive behavioral patterns of uncertainty among the participants. Based on these results, a new annotation scheme is proposed, which will expand the data used to train sequential models to detect uncertainty. As future steps, the robotic conversational partner will use this information to adapt its behavior in dialogue generation and language complexity."
 

@@ -28,7 +28,7 @@ publishDate: "2020-12-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In HRI '21 Companion: Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction
+publication: "In *HRI'21 Companion: Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction*"
 publication_short: In *HRI2021*
 
 abstract: "Robots are rapidly gaining acceptance in recent times, where the general public, industry and researchers are starting to understand the utility of robots, for example for delivery to homes or in hospitals. However, it is key to understand how to instil the appropriate amount of trust in the user. One aspect of a trustworthy system is its ability to explain actions and be transparent, especially in the face of potentially serious errors. Here, we study the various aspects of transparency of interaction and its effect in a scenario where a robot is performing triage when a suspected Covid-19 patient arrives at a hospital. Our findings consolidate prior work showing a main effect of robot errors on trust, but also showing that this is dependent on the level of transparency. Furthermore, our findings indicate that high interaction transparency leads to participants making better informed decisions on their health based on their interaction. Such findings on transparency could inform interaction design and thus lead to greater adoption of robots in key areas, such as health and well-being."

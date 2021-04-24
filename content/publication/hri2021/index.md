@@ -30,7 +30,7 @@ publishDate: "2021-04-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In HRI'21: Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction
+publication: "In *HRI21: Proceedings of the 2021 ACM/IEEE International Conference on Human-Robot Interaction*"
 publication_short: In *HRI21*
 
 abstract: "Many small group activities, like working teams or study groups, have a high dependency on the skill of each group member. Differences in skill level among participants can affect not only the performance of a team but also influence the social interaction of its members. In these circumstances, an active member could balance individual participation without exerting direct pressure on specific members by using indirect means of communication, such as gaze behaviors. Similarly, in this study, we evaluate whether a social robot can balance the level of participation in a language skill-dependent game, played by a native speaker and a second language learner. In a between-subjects study (N = 72), we compared an adaptive robot gaze behavior, that was targeted to increase the level of contribution of the least active player, with a non-adaptive gaze behavior. Our results imply that, while overall levels of speech participation were influenced predominantly by personal traits of the participants, the robot's adaptive gaze behavior could shape the interaction among participants which lead to more even participation during the game."

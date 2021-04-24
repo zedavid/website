@@ -29,7 +29,7 @@ publishDate: "2020-12-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction
+publication: "In Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction"
 publication_short: In *HRI2021*
 
 abstract: "As robots and autonomous systems become more adept at handling complex scenarios, their underlying mechanisms also become increasingly complex and opaque. This lack of transparency can give rise to unverifiable behaviours, limiting the use of robots in a number of applications including high-stakes scenarios, e.g. self-driving cars or first responders. In this paper and accompanying video, we present a system that learns from demonstrations to inspect areas in a remote environment and to explain robot behaviour. Using semi-supervised learning, the robot is able to inspect an offshore platform autonomously, whilst explaining its decision process both through both image-based and natural language-based interfaces."
